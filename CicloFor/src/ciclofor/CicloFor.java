@@ -10,6 +10,7 @@ public class CicloFor {
          int limite = 7  ;
         for (int contador = 0; contador <= limite; contador++) {
             System.out.println("contador = " + contador);
+            // esto es un comentario
         } 
     }
     
