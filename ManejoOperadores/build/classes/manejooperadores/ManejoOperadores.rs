@@ -1,0 +1,2 @@
+operadores.ManejoOperadores
+operadores.ManejoOperadoresTest
